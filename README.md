@@ -54,6 +54,7 @@ These will expand as I build more
 (Coming soon)
 
 **📈 Future Enhancements**
+
 Add EF Core + SQL Server
 
 Add authentication (JWT)
