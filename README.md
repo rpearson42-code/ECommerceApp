@@ -70,3 +70,20 @@ Add unit tests (xUnit)
 Add Clean Architecture structure
 
 Add CI/CD pipeline (GitHub Actions)
+
+**🎯 Purpose of This Project**
+This project is part of your software engineering portfolio, demonstrating:
+
+Backend development
+
+API design
+
+Database integration
+
+Clean code practices
+
+Real‑world architecture patterns
+
+## 👤 Author
+**Reginald Pearson**  
+Backend Developer (C# / .NET) • DevSecOps • Azure
