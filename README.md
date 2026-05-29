@@ -1,6 +1,6 @@
 # ECommerceApp
 
-A clean, modular RESTful Web API built with .NET Core for managing products, customers, orders, and other core e‑commerce operations. This project is part of your engineering portfolio and demonstrates backend development, API design, and scalable architecture fundamentals.
+A clean, modular RESTful Web API built with .NET Core for managing products, customers, orders, and other core e‑commerce operations. This project is part of my engineering portfolio and demonstrates backend development, API design, and scalable architecture fundamentals.
 
 🚀 **Features**
 RESTful API architecture
