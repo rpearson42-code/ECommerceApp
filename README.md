@@ -21,6 +21,7 @@ Clean, extensible project structure
 
 
 **🛠️ Tech Stack**
+
 .NET Core / ASP.NET Core Web API
 
 C#
@@ -35,3 +36,13 @@ Visual Studio 2026
 
 SSMS 22
 
+🔌 API Endpoints (Examples)
+These will expand as you build more chapters.
+
+| Method | Endpoint | Description |
+| --- | --- | --- |
+| GET | ``/api/products`` | Get all products |
+| GET | ``/api/products/{id}`` | Get product by ID |
+| POST | ``/api/products`` | Create a new product |
+| PUT | ``/api/products/{id}`` | Update a product |
+| DELETE | ``/api/products/{id}`` | Delete a product |
