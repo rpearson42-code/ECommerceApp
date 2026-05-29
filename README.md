@@ -46,3 +46,26 @@ These will expand as I build more
 | POST | ``/api/products`` | Create a new product |
 | PUT | ``/api/products/{id}`` | Update a product |
 | DELETE | ``/api/products/{id}`` | Delete a product |
+
+**Orders**
+(Coming soon)
+
+**Customers**
+(Coming soon)
+
+**📈 Future Enhancements**
+Add EF Core + SQL Server
+
+Add authentication (JWT)
+
+Add role‑based authorization
+
+Add logging + Serilog
+
+Add caching (Redis)
+
+Add unit tests (xUnit)
+
+Add Clean Architecture structure
+
+Add CI/CD pipeline (GitHub Actions)
