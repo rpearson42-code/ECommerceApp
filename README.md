@@ -86,4 +86,4 @@ Real‑world architecture patterns
 
 ## 👤 Author
 **Reginald Pearson**  
-Backend Developer (C# / .NET) • DevSecOps • Azure
+Software Engineer (Backend / .NET) • DevSecOps • Azure
