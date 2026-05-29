@@ -37,7 +37,7 @@ Visual Studio 2026
 SSMS 22
 
 **🔌 API Endpoints (Examples)**
-These will expand as you build more chapters.
+These will expand as I build more 
 
 | Method | Endpoint | Description |
 | --- | --- | --- |
